@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japanese Patterns Daily</title>
+    <link>https://granolamatt.github.io/japanese-patterns-daily/</link>
+    <atom:link href="https://granolamatt.github.io/japanese-patterns-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>One Japanese sentence pattern a day, explained in English as a formula (A wa B desu = A is B), built up piece by piece, then used in a short dialogue with slow / normal / repeat drills and a real-Japanese news corner. Works entirely by ear. Voices: VOICEVOX:冥鳴ひまり, VOICEVOX:玄野武宏, Kokoro.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Nov 2026 06:38:26 +0000</lastBuildDate>
+    <itunes:author>Japanese Patterns Daily</itunes:author>
+    <itunes:summary>One Japanese sentence pattern a day, explained in English as a formula (A wa B desu = A is B), built up piece by piece, then used in a short dialogue with slow / normal / repeat drills and a real-Japanese news corner. Works entirely by ear. Voices: VOICEVOX:冥鳴ひまり, VOICEVOX:玄野武宏, Kokoro.</itunes:summary>
+    <itunes:image href="https://granolamatt.github.io/japanese-patterns-daily/cover.png"/>
+    <image><url>https://granolamatt.github.io/japanese-patterns-daily/cover.png</url><title>Japanese Patterns Daily</title><link>https://granolamatt.github.io/japanese-patterns-daily/</link></image>
+    <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>#4 私の コーヒーですか — Whose Coffee Is This?</title>
+      <description>Pattern: AのB (A no B) = A&#x27;s B / the B of A
+Topic: at a restaurant
+Tip: Owner first, always. の works like English apostrophe-s: whatever comes before の owns or describes whatever comes after it. けんのケーキ is Ken&#x27;s cake. Flip it to ケーキのけん and you&#x27;ve said &#x27;the cake&#x27;s Ken&#x27;. When English uses &#x27;of&#x27; (the menu of the restaurant), turn it around in Japanese: みせのメニュー.
+Real Japanese (TV weather report): あしたのとうきょうのてんきです。 = Here is tomorrow&#x27;s weather for Tokyo. (Literally: It&#x27;s tomorrow&#x27;s Tokyo&#x27;s weather.)
+New words: ともだち (friend), みせ (shop / restaurant), メニュー (menu), ケーキ (cake)</description>
+      <itunes:summary>Pattern: AのB (A no B) = A&#x27;s B / the B of A
+Topic: at a restaurant
+Tip: Owner first, always. の works like English apostrophe-s: whatever comes before の owns or describes whatever comes after it. けんのケーキ is Ken&#x27;s cake. Flip it to ケーキのけん and you&#x27;ve said &#x27;the cake&#x27;s Ken&#x27;. When English uses &#x27;of&#x27; (the menu of the restaurant), turn it around in Japanese: みせのメニュー.
+Real Japanese (TV weather report): あしたのとうきょうのてんきです。 = Here is tomorrow&#x27;s weather for Tokyo. (Literally: It&#x27;s tomorrow&#x27;s Tokyo&#x27;s weather.)
+New words: ともだち (friend), みせ (shop / restaurant), メニュー (menu), ケーキ (cake)</itunes:summary>
+      <link>https://granolamatt.github.io/japanese-patterns-daily/transcripts/2026-11-21_ep004.html</link>
+      <enclosure url="https://granolamatt.github.io/japanese-patterns-daily/audio/2026-11-21_ep004.mp3" length="5422006" type="audio/mpeg"/>
+      <guid isPermaLink="false">jpd-2026-11-21-4</guid>
+      <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>669</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#3 学生じゃないです — I&#x27;m Not a Student</title>
+      <description>Pattern: AはBじゃないです (A wa B ja nai desu) = A is not B
+Topic: self-introductions
+Tip: The negative ending じゃないです replaces です. It doesn&#x27;t come after it, so never say &quot;desu ja nai desu.&quot; And because &quot;not&quot; comes at the very end in Japanese, always listen to the last word to know whether a sentence is yes or no.
+Real Japanese (TV weather report): あしたは雨じゃないです。 = Tomorrow, it won&#x27;t be rain.
+New words: 学生 (student), せんせい (teacher), かいしゃいん (office worker / company employee), 日本人 (Japanese person), アメリカ人 (American (person))</description>
+      <itunes:summary>Pattern: AはBじゃないです (A wa B ja nai desu) = A is not B
+Topic: self-introductions
+Tip: The negative ending じゃないです replaces です. It doesn&#x27;t come after it, so never say &quot;desu ja nai desu.&quot; And because &quot;not&quot; comes at the very end in Japanese, always listen to the last word to know whether a sentence is yes or no.
+Real Japanese (TV weather report): あしたは雨じゃないです。 = Tomorrow, it won&#x27;t be rain.
+New words: 学生 (student), せんせい (teacher), かいしゃいん (office worker / company employee), 日本人 (Japanese person), アメリカ人 (American (person))</itunes:summary>
+      <link>https://granolamatt.github.io/japanese-patterns-daily/transcripts/2026-11-20_ep003.html</link>
+      <enclosure url="https://granolamatt.github.io/japanese-patterns-daily/audio/2026-11-20_ep003.mp3" length="4799707" type="audio/mpeg"/>
+      <guid isPermaLink="false">jpd-2026-11-20-3</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>592</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#2 今日は あめですか。 — Is it rainy today?</title>
+      <description>Pattern: AはBですか (A wa B desu ka) = Is A B?
+Topic: the weather today
+Tip: か is a question mark you can hear. You don&#x27;t change the word order or add a separate word for &#x27;is&#x27;. Just take any AはBです sentence and put か at the end. To answer, start with はい (yes) or いいえ (no).
+Real Japanese (radio host asking the weather forecaster): では、しゅうまつは はれですか。 = So then, will the weekend be sunny?
+New words: 今日 (today), あした (tomorrow), あめ (rain), はれ (sunny weather), くもり (cloudy weather), いいえ (no)</description>
+      <itunes:summary>Pattern: AはBですか (A wa B desu ka) = Is A B?
+Topic: the weather today
+Tip: か is a question mark you can hear. You don&#x27;t change the word order or add a separate word for &#x27;is&#x27;. Just take any AはBです sentence and put か at the end. To answer, start with はい (yes) or いいえ (no).
+Real Japanese (radio host asking the weather forecaster): では、しゅうまつは はれですか。 = So then, will the weekend be sunny?
+New words: 今日 (today), あした (tomorrow), あめ (rain), はれ (sunny weather), くもり (cloudy weather), いいえ (no)</itunes:summary>
+      <link>https://granolamatt.github.io/japanese-patterns-daily/transcripts/2026-11-19_ep002.html</link>
+      <enclosure url="https://granolamatt.github.io/japanese-patterns-daily/audio/2026-11-19_ep002.mp3" length="4500992" type="audio/mpeg"/>
+      <guid isPermaLink="false">jpd-2026-11-19-2</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>549</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#1 私はコーヒーです — I&#x27;ll Have Coffee</title>
+      <description>Pattern: AはBです (A wa B desu) = A is B (literally: as for A, B is it)
+Topic: ordering coffee at a café
+Tip: は (wa) means &quot;as for&quot; and marks the topic. It doesn&#x27;t mean &quot;equals.&quot; So 私はコーヒーです (watashi wa koohii desu) means &quot;As for me, coffee,&quot; which is how you say &quot;I&#x27;ll have coffee.&quot; It does not mean &quot;I am coffee.&quot; Memory trick: です (desu) is like a full stop. It always comes last and closes the sentence.
+Real Japanese (TV weather report): 今日、東京は晴れです。 = Today, it&#x27;s sunny in Tokyo. (literally: today, as for Tokyo, it&#x27;s sunny)
+New words: 私 (I, me), コーヒー (coffee), おちゃ (tea (green tea)), これ (this (thing near me))</description>
+      <itunes:summary>Pattern: AはBです (A wa B desu) = A is B (literally: as for A, B is it)
+Topic: ordering coffee at a café
+Tip: は (wa) means &quot;as for&quot; and marks the topic. It doesn&#x27;t mean &quot;equals.&quot; So 私はコーヒーです (watashi wa koohii desu) means &quot;As for me, coffee,&quot; which is how you say &quot;I&#x27;ll have coffee.&quot; It does not mean &quot;I am coffee.&quot; Memory trick: です (desu) is like a full stop. It always comes last and closes the sentence.
+Real Japanese (TV weather report): 今日、東京は晴れです。 = Today, it&#x27;s sunny in Tokyo. (literally: today, as for Tokyo, it&#x27;s sunny)
+New words: 私 (I, me), コーヒー (coffee), おちゃ (tea (green tea)), これ (this (thing near me))</itunes:summary>
+      <link>https://granolamatt.github.io/japanese-patterns-daily/transcripts/2026-11-18_ep001.html</link>
+      <enclosure url="https://granolamatt.github.io/japanese-patterns-daily/audio/2026-11-18_ep001.mp3" length="4285534" type="audio/mpeg"/>
+      <guid isPermaLink="false">jpd-2026-11-18-1</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>519</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
